@@ -1,3 +1,4 @@
 # Android-Dev
-Temperature Convertor BAsic application
+Temperature Convertor Basic application
+and 
 Boolean Operations Calculator application
